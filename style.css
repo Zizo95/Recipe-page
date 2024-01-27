@@ -32,4 +32,8 @@ img{
       padding: 0;
       border-radius: 0;
     }
+.preparation{
+    margin-right: 10px;
+    margin-left: 10px;
+}    
 }
